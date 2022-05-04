@@ -1,0 +1,10 @@
+README.md
+setup.py
+Jw_surf/GetPub.py
+Jw_surf/__init__.py
+Jw_surf/browseJw.py
+Jw_surf/surfer.py
+kbJwSurf.egg-info/PKG-INFO
+kbJwSurf.egg-info/SOURCES.txt
+kbJwSurf.egg-info/dependency_links.txt
+kbJwSurf.egg-info/top_level.txt
